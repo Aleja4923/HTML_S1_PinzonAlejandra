@@ -17,7 +17,7 @@ Dia2/
 Se requiere tener instalado algun navegador web para su correcto funcionamiento.
 
 # ** Explicacion **
-- index : Se encuentra el codigo fuente en html.
+- [index.html] : Se encuentra el codigo fuente en html.
 
 - Style : Se encuentra la estructura css del codigo donde se edita lo visual.
 
