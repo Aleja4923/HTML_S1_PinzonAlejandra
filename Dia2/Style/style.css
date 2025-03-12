@@ -6,14 +6,17 @@ body {
 
 
 .container {
-    border-style: ridge;
+    border-style: groove;
     background-color: whitesmoke;
 }
 
-.yoo{
-    width:250px;
+.yo{
+    position: relative;
+    top: 10px;
+    left: 35px;
+    width:220px;
     height: 200px;
-    border-radius: 60%;
+    border-radius: 100%;
     border-style: groove;
 
 }
