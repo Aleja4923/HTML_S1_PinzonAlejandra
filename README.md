@@ -1,19 +1,12 @@
 # HTML - CSS
 
-# ** Proyecto **
+#  Proyecto 
 Documentacion del proceso de aprendizaje de HTML Y CSS
 
-# ** Tabla de contenidos **
+#  Tabla de contenidos 
 
-Estara dividido por dias:
-
-├── Dia 1 
-│   ├── README.md     
-├── Dia 2 
-│   ├── imagenes  
-│   ├── Style
-│   ├── index y README.md
-├── Dia 3 (tablas)
-│   ├── imagenes  
-│   ├── Style
-│   ├── index y README.md
+| Modulo | Cotenido | 
+|--|--|
+| Dia 1    | Creacion del repositorio. |
+| Dia 2  | HV en html y css.  |
+| Dia 3   | HV formato tablas en html y css.  |
