@@ -1,7 +1,7 @@
-# HTML - Hipervinculos
+# HTML - Hipervínculos
 
 # ** Proyecto **
-Trabajo "Creacion hoja de vida en HTML y CSS"
+Trabajo "Creación hoja de vida en HTML y CSS"
 
 # ** Tabla de contenidos **
 
@@ -13,12 +13,12 @@ Dia2/
 ├── Imagenes/
 │   ├── imagen.png
 
-# **Instalacion** 
-Se requiere tener instalado algun navegador web para su correcto funcionamiento.
+# **Instalación** 
+Se requiere tener instalado algún navegador web para su correcto funcionamiento.
 
-# ** Explicacion **
-- [Index](Dia2/index.html): : Se encuentra el codigo fuente en html.
+# ** Explicación **
+- [Index](index.html): : Se encuentra el codigo fuente en html.
 
-- [Style](Dia2/Style/style.css): Se encuentra la estructura css del codigo donde se edita lo visual.
+- [Style](Style/style.css): Se encuentra la estructura css del codigo donde se edita lo visual.
 
-- [Index](Dia2/Imagenes/imagen.jpeg): Esta la iamgen usada para el HV.
+- [Index](Imagenes/imagen.jpeg): Esta la imagen usada para el HV.
