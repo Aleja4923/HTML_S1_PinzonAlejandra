@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de registro - Mi web</title>
+</head>
+<body>
+    <form name="nombre" method="post" action="" > 
+        <!-- Controles de texto para nombre y apellido con maximo de caracteres -->
+        <input type="text" name="nombre" placeholder="Nombre" maxlength="50"/>
+        <br> 
+        <input type="text" name="apellido" placeholder="Apellido" maxlength="50"/>
+        <br>
+        <!-- Control para seleccion de opcion-->
+        <select>
+            <option disabled selected>-Elige una opción-</option>
+            <option value="1">Masculino</option>
+            <option value="2">Femenino</option>
+          </select>
+        <br>
+        <input type="email" name="email" placeholder="Email"/>
+        <br>
+        <label for="ofertas"> "Deseo recibir información sobre novedades y ofertas, activada por defecto." </label>
+        <input type="checkbox" id="ofertas">
+        <br>
+        <br>
+        <label for="ofertas"> "Declaro haber leído y aceptar las condiciones generales del programa y la normativa sobre protección de datos." </label>
+        <input type="checkbox" id="ofertas">
+        <br>
+        <br>
+        <label for="municipio">Selecione poblacion: </label>
+        <select id="municipio">
+            <option value="1">Bucaramanga</option>
+            <option value="2">Giron</option>
+            <option value="3">Pidecuesta</option>
+            <option value="4">Floridablanca</option>
+        </select>
+        <br>
+        
+        <br>
+        <input type="submit" value="Envío">
+    </form>
+    
+</body>
+</html>
