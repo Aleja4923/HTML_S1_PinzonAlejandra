@@ -17,8 +17,8 @@ Dia2/
 Se requiere tener instalado algun navegador web para su correcto funcionamiento.
 
 # ** Explicacion **
-- [index.html] : Se encuentra el codigo fuente en html.
+- [Index](Dia2/index.html): : Se encuentra el codigo fuente en html.
 
-- Style : Se encuentra la estructura css del codigo donde se edita lo visual.
+- [Style](Dia2/Style/style.css): Se encuentra la estructura css del codigo donde se edita lo visual.
 
-- Imagenes: Esta la iamgen usada para el HV.
+- [Index](Dia2/Imagenes/imagen.jpeg): Esta la iamgen usada para el HV.
