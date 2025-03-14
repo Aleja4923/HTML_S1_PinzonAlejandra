@@ -4,41 +4,54 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Formulario de registro - Mi web</title>
+    <link rel="stylesheet" href="./Style/style.css"> <!-- Archivo CSS -->
 </head>
 <body>
-    <form name="nombre" method="post" action="" > 
-        <!-- Controles de texto para nombre y apellido con maximo de caracteres -->
-        <input type="text" name="nombre" placeholder="Nombre" maxlength="50"/>
-        <br> 
-        <input type="text" name="apellido" placeholder="Apellido" maxlength="50"/>
+    <form action="" > 
+        <h2> Formulario </h2>
+        <!-- Controles de texto para nombre y apellido con maximo de 50 caracteres -->
+        <label for="nombre">Nombre</label>
+        <input type="text" placeholder="Nombre" maxlength="50"/>
+        
+        <label for="apellido">Apellido</label>
+        <input type="text" placeholder="Apellido" maxlength="50"/>
         <br>
-        <!-- Control para seleccion de opcion-->
+        <!-- Control para seleccion de opcion unicamente valido dos opciones-->
+        <label for="Sexo">Sexo</label>
         <select>
             <option disabled selected>-Elige una opción-</option>
             <option value="1">Masculino</option>
             <option value="2">Femenino</option>
-          </select>
-        <br>
-        <input type="email" name="email" placeholder="Email"/>
-        <br>
-        <label for="ofertas"> "Deseo recibir información sobre novedades y ofertas, activada por defecto." </label>
-        <input type="checkbox" id="ofertas">
-        <br>
-        <br>
-        <label for="ofertas"> "Declaro haber leído y aceptar las condiciones generales del programa y la normativa sobre protección de datos." </label>
-        <input type="checkbox" id="ofertas">
-        <br>
-        <br>
+        </select>
+        <!-- Control para ingreso de email-->
+        <label for="email">Email</label>
+        <input type="email" placeholder="Email"/>
+        <!-- Control para selecionar poblacion con texto predeterminado para guia -->
         <label for="municipio">Selecione poblacion: </label>
         <select id="municipio">
+            <option disabled selected>-Elige una opción-</option>
             <option value="1">Bucaramanga</option>
             <option value="2">Giron</option>
             <option value="3">Pidecuesta</option>
             <option value="4">Floridablanca</option>
         </select>
         <br>
-        
+        <!-- Casilla para escribir mensaje-->
+        <label for="message">Mensaje:</label>
         <br>
+        <textarea id="message" name="message" cols="30" rows="5" placeholder="Escribe tu mensaje aquí..."></textarea>
+        <br>
+        <br>
+        <!-- Requerimiento casillas de verificación -->
+        <label for="Check1"> "Deseo recibir información sobre novedades y ofertas, activada por defecto." </label>
+        <input type="checkbox" id="Check1"/>
+        <br>
+        <br>
+        <label for="check2"> "Declaro haber leído y aceptar las condiciones generales del programa y la normativa sobre protección de datos." </label>
+        <input type="checkbox" id="check2"/>
+        <br>
+        <br>
+        <!-- Boton de envío -->
         <input type="submit" value="Envío">
     </form>
     

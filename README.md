@@ -1,12 +1,23 @@
-# HTML - CSS
+# HTML - Formulario
 
 #  Proyecto 
-Documentacion del proceso de aprendizaje de HTML Y CSS
+Trabajo "Pagina web con formulario de registro"
 
-#  Tabla de contenidos 
+#  Tabla de contenidos
 
-| Modulo | Cotenido | 
+- [Index](index.html): : Se encuentra el codigo fuente en html con formato tablas.
+
+- [Style](Style/style.css): Se encuentra la estructura css del codigo donde se edita lo visual.
+
+# Instalación 
+Se requiere tener instalado algún navegador web para su correcto funcionamiento.
+
+# Explicación 
+
+| Requerimiento | Cotenido | 
 |--|--|
-| Dia 1    | Creacion del repositorio. |
-| Dia 2  | HV en html y css.  |
-| Dia 3   | HV formato tablas en html y css.  |
+| Nombre y Apellido:   | Entrada de texto con límite de 50 caracteres.   |
+| Opcion sexo    | Lista desplegable con dos opciones: Masculino y Femenino.   |
+| Correo Electrónico:   |   Casilla para ingreso de email.   |
+| Población:    | Lista desplegable con dos opciones: Masculino y Femenino.   |
+| Mensaje:    | Área de texto multilineal con placeholder.   |
