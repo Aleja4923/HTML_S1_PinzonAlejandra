@@ -1,9 +1,9 @@
 # HTML - Tablas
 
-# ** Proyecto **
+# Proyecto 
 Trabajo "Creación hoja de vida en HTML y CSS usando formato tablas"
 
-# ** Tabla de contenidos **
+# Tabla de contenidos 
 
 | Modulo | Cotenido | 
 |--|--|
