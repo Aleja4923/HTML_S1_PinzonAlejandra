@@ -1,12 +1,306 @@
-*{
-    margin: 0;
+body {
     background-color: black;
 }
 
+#logo {
+    top: 227px;
+    left: 682px;
+    width: 556px;
+    height: 313px;
+    position: absolute;
+}
+
+#lupa {
+    top: 37px;
+    left: 63px;
+    width: 36px;;
+    position: absolute;
+}
+
+#recuadro {
+    top: 30px;
+    left: 1695px;
+    width: 205px;
+    height: 54px;
+    position: absolute;
+}
+
+#cuadro {
+    top: 840px;
+    left: 730px;
+    width: 458px;
+    height: 104px;
+    position: absolute;
+}
+
+#login {
+    top: 48px;
+    left: 1773px;
+    width: 50px;
+    height: 20px;
+    position: absolute;
+}
 .fondo {
-    top: 0px;
-    left: 0px;
+    position: absolute;
     width: 1920px;
     height: 1080px;
-    background-color: black;
+}
+
+.fond {
+    position: absolute;
+    top: 0px;
+    left: 2px;
+    width: 1918px;
+    height: 10000;
+}
+
+h1 {
+    font-family: 'Amazon Ember', sans-serif;
+    font-weight: bold;
+    font-size: 60px;
+    background: transparent;
+    text-align: center;
+    line-height: 72px;
+    color: #ffffff;
+    opacity: 1;
+    position: absolute;
+    top: 517px;
+    left: 389px;
+}       
+
+#descripcion{
+    font-family: "Amazon Ember", sans-serif;
+    color: white;
+    font-size: 34px;
+    text-align: center;
+    width: 1160px;
+    height: 102px;
+    top: 608px;
+    left: 380px;
+    width: 1160px;
+    height: 102px;
+    position: absolute;
+}
+
+#su {
+    font-family: 'Amazon Ember', sans-serif;
+    font-size: 40px;
+    top: 825px;
+    left: 780px;
+    width: 360px;
+    height: 40px;
+    position: absolute;
+}
+
+#azulito {
+    top: 1106px;
+    left: 64px;
+    width: 1792px;
+    height: 567px;
+    position: absolute;
+}
+
+#cuadroazul {
+    top: 1717px;
+    left: 64px;
+    width: 1792px;
+    height: 724px;
+    position: absolute;
+}
+
+#Dont{
+    font-family: 'Amazon Ember', sans-serif;
+    font-weight: bold;
+    top: 1720px;
+    left: 135px;
+    font-size: 60px;
+    color: #ffffff;
+    position: absolute;
+}
+
+
+#peli1{
+    position: absolute;
+    top: 1896px;
+    left: 477px;
+    width: 181px;
+    height: 309px;
+}
+
+#peli2{
+    position: absolute;
+    top: 1896px;
+    left: 670px;
+    width: 181px;
+    height: 309px;
+}
+
+#peli3{
+    position: absolute;
+    top: 1896px;
+    left: 863px;
+    width: 180px;
+    height: 309px;
+}
+
+#peli4{
+    position: absolute;
+    top: 1896px;
+    left: 1055px;
+    width: 181px;
+    height: 309px;
+}
+
+#peli5{
+    position: absolute;
+    top: 1896px;
+    left: 1248px;
+    width: 181px;
+    height: 309px;
+}
+
+#abajo1{
+    font-family: 'Amazon Ember', sans-serif;
+    position: absolute;
+    top: 2220px;
+    left: 460px;
+    width: 1492px;
+    height: 110px;
+    color: #ffffff;
+    font-size: 50px;
+    align-items: center;
+}
+
+#abajo2{
+    font-family: 'Amazon Ember', sans-serif;
+    position: absolute;
+    top: 2280px;
+    left: 230px;
+    width: 1492px;
+    height: 110px;
+    color: #ffffff;
+    font-size: 50px;
+    align-items: center;
+}
+
+#azul3{
+    position: absolute;
+    top: 2467px;
+    left: 64px;
+    width: 1792px;
+    height: 567px;
+}
+
+#cancel{
+    font-family: 'Amazon Ember', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 2480px;
+    left: 580px;
+    color: #ffffff;
+    font-size: 60px;
+    align-items: center;
+}
+
+#esx{
+    position: absolute;
+    top: 2650px;
+    left: 876px;
+    width: 190px;
+    height: 190px;
+}
+
+#casi{
+    position: absolute;
+    font-family: 'Amazon Ember', sans-serif;
+    top: 2850px;
+    left: 287px;
+    font-size: 40px;
+    color: #ffffff;
+
+}
+
+#ya{
+    position: absolute;
+    font-family: 'Amazon Ember', sans-serif;
+    top: 2900px;
+    left: 900px;
+    font-size: 40px;
+    color: #ffffff;
+}
+
+#mac1{
+    top: 3475px;
+    left: 685px;
+    width: 584px;
+    height: 534px;
+    position: absolute;
+}
+
+#compa{
+    position: absolute;
+    font-family: 'Amazon Ember', sans-serif;
+    top: 3020px;
+    left: 418px;
+    font-size: 125px;
+    color: #ffffff;
+}
+
+#compa2{
+    position: absolute;
+    font-family: 'Amazon Ember', sans-serif;
+    top: 3296px;
+    left: 210px;
+    font-size: 45px;
+    color: #ffffff;
+}
+
+#compa3{
+    position: absolute;
+    font-family: 'Amazon Ember', sans-serif;
+    top: 3360px;
+    left: 770px;
+    font-size: 45px;
+    color: #ffffff;
+}
+
+#mac2{
+    top: 3606px;
+    left: 386px;
+    width: 256px;
+    height: 219px;
+    position: absolute;
+}
+
+#mac3{
+    top: 3587px;
+    left: 1261px;
+    width: 271px;
+    height: 238px;
+    position: absolute;
+}
+
+#cosito1{
+    top: 3689px;
+    left: 305px;
+    width: 19px;
+    height: 27px;
+    position: absolute;
+}
+
+#cosito2{
+    top: 3702px;
+    left: 1575px;
+    width: 18px;
+    height: 26px;
+    rotate: 180deg;
+    position: absolute;
+}
+
+#termine{
+    top: 4075px;
+    left: 543px;
+    width: 831px;
+    height: 25px;
+    position: absolute;
 }

@@ -15,3 +15,7 @@ Trabajo "Creación hoja de vida en HTML y CSS usando formato tablas"
 
 # **Instalación** 
 Se requiere tener instalado algún navegador web para su correcto funcionamiento.
+            <img id="peli2" src="./Imagenes/Peli2.png" />
+            <img id="peli3" src="./Imagenes/Peli3.png" />
+            <img id="peli4" src="./Imagenes/Peli4.png" />
+            <img id="peli5" src="./Imagenes/Peli5.png" />
