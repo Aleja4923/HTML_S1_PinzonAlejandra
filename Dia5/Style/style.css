@@ -55,7 +55,7 @@ body {
 }
 
 h1 {
-    font-family: 'Amazon Ember', sans-serif;
+    font-family: "amazon";
     font-weight: bold;
     font-size: 60px;
     background: transparent;
@@ -69,7 +69,7 @@ h1 {
 }       
 
 #descripcion{
-    font-family: "Amazon Ember", sans-serif;
+    font-family: "amazon2";
     color: white;
     font-size: 34px;
     text-align: center;
@@ -83,7 +83,7 @@ h1 {
 }
 
 #su {
-    font-family: 'Amazon Ember', sans-serif;
+    font-family: "amazon2";
     font-size: 40px;
     top: 825px;
     left: 780px;
@@ -109,7 +109,7 @@ h1 {
 }
 
 #Dont{
-    font-family: 'Amazon Ember', sans-serif;
+    font-family: "amazon";
     font-weight: bold;
     top: 1720px;
     left: 135px;
@@ -160,7 +160,7 @@ h1 {
 }
 
 #abajo1{
-    font-family: 'Amazon Ember', sans-serif;
+    font-family: "amazon2";
     position: absolute;
     top: 2220px;
     left: 460px;
@@ -172,14 +172,14 @@ h1 {
 }
 
 #abajo2{
-    font-family: 'Amazon Ember', sans-serif;
+    font-family: "amazon2";
     position: absolute;
     top: 2280px;
     left: 230px;
     width: 1492px;
     height: 110px;
     color: #ffffff;
-    font-size: 50px;
+    font-size: 49px;
     align-items: center;
 }
 
@@ -192,10 +192,9 @@ h1 {
 }
 
 #cancel{
-    font-family: 'Amazon Ember', sans-serif;
-    font-weight: bold;
+    font-family: "amazon";
     position: absolute;
-    top: 2480px;
+    top: 2445px;
     left: 580px;
     color: #ffffff;
     font-size: 60px;
@@ -212,7 +211,7 @@ h1 {
 
 #casi{
     position: absolute;
-    font-family: 'Amazon Ember', sans-serif;
+    font-family: "amazon2";
     top: 2850px;
     left: 287px;
     font-size: 40px;
@@ -222,7 +221,7 @@ h1 {
 
 #ya{
     position: absolute;
-    font-family: 'Amazon Ember', sans-serif;
+    font-family: "amazon2";
     top: 2900px;
     left: 900px;
     font-size: 40px;
@@ -239,7 +238,7 @@ h1 {
 
 #compa{
     position: absolute;
-    font-family: 'Amazon Ember', sans-serif;
+    font-family: "amazon2";
     top: 3020px;
     left: 418px;
     font-size: 125px;
@@ -248,7 +247,7 @@ h1 {
 
 #compa2{
     position: absolute;
-    font-family: 'Amazon Ember', sans-serif;
+    font-family: "amazon2";
     top: 3296px;
     left: 210px;
     font-size: 45px;
@@ -257,7 +256,7 @@ h1 {
 
 #compa3{
     position: absolute;
-    font-family: 'Amazon Ember', sans-serif;
+    font-family: "amazon2";
     top: 3360px;
     left: 770px;
     font-size: 45px;
@@ -305,4 +304,12 @@ h1 {
     position: absolute;
 }
 
+@font-face {
+    font-family:"amazon";
+    src: url("../font/AmazonEmber_Bd.ttf") ;
+}
+@font-face {
+    font-family:"amazon2" ;
+    src: url("../font/AmazonEmber_Lt.ttf");
+}
 /* Alejandra Pinzon Alvarez #1097498715 */ 

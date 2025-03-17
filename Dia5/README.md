@@ -18,6 +18,7 @@ Pagina web base: https://xd.adobe.com/view/64812a19-92af-4081-a325-50859a53e21f-
 |--|--|
 | Imagenes    | Imagenes en formato png usadas en el codigo (22). |
 | Style   | style.css: El archivo de estilo que define la apariencia visual del sitio web.  |
+| font    | Tipos de letra utilizados en el codigo. |
 | Index    | README.md: Documentación del proyecto. |
 
 # Instalación
@@ -34,6 +35,8 @@ Pagina web base: https://xd.adobe.com/view/64812a19-92af-4081-a325-50859a53e21f-
 
 - [Style](Style/style.css): El archivo CSS que define los estilos visuales de la página web, incluyendo la estructura de las imágenes, los tamaños, márgenes, tipografías y demás elementos visuales.
 
-- [Imagenes](imagen/ima.jpeg): Una carpeta que contiene todas las imágenes necesarias para el funcionamiento del código. Estas incluyen imágenes en formato PNG que forman parte del diseño visual de la página.
+- [Font](font): Una carpeta que contiene dos tipos de tipografias utilizadas en el archivo css definiendo el estilo visual de la letra.
+
+- [Imagenes](Imagenes): Una carpeta que contiene todas las imágenes necesarias para el funcionamiento del código. Estas incluyen imágenes en formato PNG que forman parte del diseño visual de la página.
 
 Rezalido por: Alejandra Pinzon Alvarez #1097498715
