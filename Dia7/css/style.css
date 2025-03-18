@@ -1,0 +1,19 @@
+#grad {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background: linear-gradient(to bottom right, #FFFFFF, #E6E6E6, #808080);
+    width: 1920px;
+    height: 1080px;
+  }
+#cajita1 {
+    border: 2px solid #a8a8a8;
+    background-color: #FFFFFF;
+    top: 200px;
+    left: 100px;
+    width: 1400px;
+    height: 800px;
+    position: absolute;
+}
