@@ -145,3 +145,38 @@ font-family: "l1";
   color: black;
   position: absolute;
 }
+
+#chi{
+  top: 650px;
+  left: 1090px;
+  width: 160px;
+  height: 114px;
+  position: absolute;
+}
+
+#logochiqui{
+  top: 678px;
+  left: 1105px;
+  width: 129px;
+  height: 29px;
+  position: absolute;
+}
+
+#compra{
+  font-size: 26px;
+  font-family:"l2" ;
+  top: 695px;
+  left: 1116px;
+  width: 111px;
+  height: 36px;
+  position: absolute;
+}
+
+#flecha2{
+  top: 740px;
+  left: 1342px;
+  width: 24px;
+  height: 14px;
+  rotate: 180deg;
+  position: absolute;
+}
