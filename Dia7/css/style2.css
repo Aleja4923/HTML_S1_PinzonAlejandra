@@ -1,0 +1,216 @@
+
+
+  @font-face {
+    font-family: "l1";
+    src: url("../font/OpenSans-Regular.ttf");
+  }
+  
+  @font-face {
+    font-family:"l2" ;
+    src: url("../font/OpenSans-SemiBold.ttf");
+  }
+  
+  #grad {
+      position: absolute;
+      background: linear-gradient(#FFFFFF, #E6E6E6, #808080);
+      width: 1920px;
+      height: 1080px;
+    }
+  #cajita1 {
+      border: 2px solid #a8a8a8;
+      background-color: #FFFFFF;
+      top: 200px;
+      left: 100px;
+      width: 1400px;
+      height: 800px;
+      position: absolute;
+  }
+  
+  #logometro1 {
+    top: 43px;
+    left: 43px;
+    width: 196px;
+    height: 44px;
+    position: absolute;
+  }
+  
+  #comprar {
+  font-family: "l1";
+    font-size: 30px;
+    left: 690px;
+    top: 10px;
+    width: 230px;
+    height: 41px;
+    color: black;
+    position: absolute;
+  }
+  
+  #versaldo {
+    font-family: "l1";
+    font-size: 30px;
+    left: 1000px;
+    top: 10px;
+    width: 132px;
+    height: 41px;
+    color: black;
+    position: absolute;
+    }
+  
+  #lupa {
+    left: 1150px;
+    top: 50px;
+    width: 27px;
+    height: 27px;
+    color: black;
+    position: absolute;
+    }
+  
+  #carro {
+    left: 1240px;
+    top: 46px;
+    width: 33px;
+    height: 32px;
+    color: black;
+    position: absolute;
+  }
+  
+  #linea {
+    margin-left: 1025px;
+    margin-top: 90px;
+    height: 2px;
+    width: 90px;
+    position: absolute;
+  }
+  
+  #barranegra {
+    top: 0%;
+    left: 1300px;
+    width: 110px;
+    height: 800px;
+    background-color: black;
+    border-radius: 0px 8px 8px 0px;;
+    position: absolute;
+    
+  }
+  
+  .flecha1 {
+    top: 40px;
+    left: 1342px;
+    width: 24px;
+    height: 14px;
+    position: absolute;
+  }
+  
+  #cantidad{
+    font-size: 20px;
+    font-family: "l1";
+    top: 120px;
+    left: 1313px;
+    width: 84px;
+    height: 27px;
+    color: #FFFFFF;
+    position: absolute;
+  }
+  
+  #num{
+    top: 300px;
+    left: 1340px;
+    width: 23px;
+    height: 187px;
+    color: #FFFFFF;
+    position: absolute;
+  }
+  
+  #tarjeta{
+    top: 110px;
+    left: 320px;
+    width: 576px;
+    height: 324px;
+    position: absolute;
+  }
+
+  #t1{
+    font-size: 40px;
+    font-family: "l2";
+    top: 390px;
+    left: 266px;
+    color: black;
+    position: absolute;
+  }
+  
+  #plata{
+    font-size: 27px;
+    font-family: "l2";
+    top: 470px;
+    left: 440px;
+    color: black;
+    position: absolute;
+  }
+
+  #saldo{
+    font-size: 27px;
+    font-family: "l2";
+    top: 530px;
+    left: 500px;
+    color: black;
+    position: absolute;
+  }
+  
+  
+  #logochiqui{
+    top: 678px;
+    left: 1105px;
+    width: 129px;
+    height: 29px;
+    position: absolute;
+  }
+  
+  #compra{
+    font-size: 26px;
+    font-family:"l2" ;
+    top: 695px;
+    left: 1116px;
+    width: 111px;
+    height: 36px;
+    position: absolute;
+  }
+  
+  #flecha2{
+    top: 740px;
+    left: 1342px;
+    width: 24px;
+    height: 14px;
+    rotate: 180deg;
+    position: absolute;
+  }
+  
+  #cuadroverde{
+    position: absolute;
+    top: 650px;
+    left: 1090px;
+    width: 160px;
+    height: 114px;
+    border-radius: 8px;
+    background-color: #D5FF43 ;
+  }
+
+#cuadrogris{
+    position: absolute;
+    top: 625px;
+    left: 456px;
+    width: 288px;
+    height: 58px;
+    border-radius: 8px;
+    border-color: #c6c6c6;
+    border-style: groove;
+  }
+
+  #fin{
+    font-size: 27px;
+    font-family: "l2";
+    top: 611px;
+    left: 566px;
+    color: #000000;
+    opacity: 50%;
+    position: absolute;
+  }
