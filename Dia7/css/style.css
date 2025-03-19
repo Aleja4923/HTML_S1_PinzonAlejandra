@@ -1,10 +1,16 @@
+@font-face {
+  font-family: "l1";
+  src: url("../font/OpenSans-Regular.ttf");
+}
+
+@font-face {
+  font-family:"l2" ;
+  src: url("../font/OpenSans-SemiBold.ttf");
+}
+
 #grad {
     position: absolute;
-    top: 0px;
-    bottom: 0px;
-    left: 0px;
-    right: 0px;
-    background: linear-gradient(to bottom right, #FFFFFF, #E6E6E6, #808080);
+    background: linear-gradient(#FFFFFF, #E6E6E6, #808080);
     width: 1920px;
     height: 1080px;
   }
@@ -16,4 +22,126 @@
     width: 1400px;
     height: 800px;
     position: absolute;
+}
+
+#logometro1 {
+  top: 43px;
+  left: 43px;
+  width: 196px;
+  height: 44px;
+  position: absolute;
+}
+
+#comprar {
+font-family: "l1";
+  font-size: 30px;
+  left: 690px;
+  top: 10px;
+  width: 230px;
+  height: 41px;
+  color: black;
+  position: absolute;
+}
+
+#versaldo {
+  font-family: "l1";
+  font-size: 30px;
+  left: 1000px;
+  top: 10px;
+  width: 132px;
+  height: 41px;
+  color: black;
+  position: absolute;
+  }
+
+#lupa {
+  left: 1150px;
+  top: 50px;
+  width: 27px;
+  height: 27px;
+  color: black;
+  position: absolute;
+  }
+
+#carro {
+  left: 1240px;
+  top: 46px;
+  width: 33px;
+  height: 32px;
+  color: black;
+  position: absolute;
+}
+
+#linea {
+  margin-left: 740.5px;
+  margin-top: 95px;
+  height: 1px;
+  width: 146px;
+  position: absolute;
+}
+
+#negro {
+  top: 0%;
+  left: 1300px;
+  width: 110px;
+  height: 800px;
+  position: absolute;
+}
+
+.flecha1 {
+  top: 40px;
+  left: 1342px;
+  width: 24px;
+  height: 14px;
+  position: absolute;
+}
+
+#cantidad{
+  font-size: 20px;
+  font-family: "l1";
+  top: 120px;
+  left: 1313px;
+  width: 84px;
+  height: 27px;
+  color: #FFFFFF;
+  position: absolute;
+}
+
+#num{
+  top: 300px;
+  left: 1340px;
+  width: 23px;
+  height: 187px;
+  color: #FFFFFF;
+  position: absolute;
+}
+
+#tarjeta{
+  top: 140px;
+  left: 160px;
+  width: 884px;
+  height: 497px;
+  position: absolute;
+}
+
+#t1{
+  font-size: 40px;
+  font-family: "l2";
+  top: 610px;
+  left: 158px;
+  width: 716px;
+  height: 55px;
+  color: black;
+  position: absolute;
+}
+
+#plata{
+  font-size: 30px;
+  font-family: "l2";
+  top: 675px;
+  left: 158px;
+  width: 716px;
+  height: 55px;
+  color: black;
+  position: absolute;
 }
