@@ -1,3 +1,16 @@
+@font-face {
+    font-family:"f1";
+    src: url('../fonts/Barlow-Bold.ttf');
+}
+@font-face {
+    font-family:"f2";
+    src: url('../fonts/open-sauce.one-semibold.ttf');
+}
+
+@font-face {
+    font-family:"f3";
+    src: url('../fonts/PlayfairDisplay-Black.ttf');
+}
 .background{
     background-color: black;
     width: 1920px;
@@ -7,7 +20,8 @@
 
 .menu{
     color:white;
-    font-size: 25px;
+    font-size: 20px;
+    font-family: "f2";
 }
 
 #home{
@@ -65,6 +79,7 @@
     position: absolute;
     font-size: 30px;
     font-weight: bold;
+    font-family: "f1";
 }
 
 #cafe1{
@@ -81,6 +96,7 @@
     font-size: 80px;
     color: white;
     position: absolute;
+    font-family: "f3";
 }
 
 #with{
@@ -89,6 +105,7 @@
     font-size: 80px;
     color: white;
     position: absolute;
+    font-family: "f3"; 
 }
 
 .shopnow{
@@ -101,14 +118,16 @@
     top: 1040px;
     left: 950px;
     position: absolute;
+    font-family: "f2";
 }
 
 #OUR{
-    top: 1450px;
+    top: 1440px;
     left: 1140px;
     font-size: 80px;
     color: white;
     position: absolute;
+    font-family: "f3"; 
 }
 
 .raya{
@@ -126,7 +145,7 @@
     left: 1120px;
     font-size: 30px;
     color: white;
-    position: absolute;
+    position: absolute;  
 }
 
 .Learn1{
@@ -153,11 +172,12 @@
     top: 2200px;
     left: 110px;
     text-align: left;
-    font-size: 80px;
+    font-size: 70px;
     color: white;
     width: 650px;
     height: 450px;
     position: absolute;
+    font-family: "f3"; 
 }
 
 #cafe3{
@@ -186,14 +206,16 @@
     position: absolute;
     top: 2660px;
     left: 120px;
+    font-family: "f2"; 
 }
 
 #products{
     top: 2970px;
     left: 100px;
-    font-size: 80px;
+    font-size: 70px;
     color: white;
     position: absolute;
+    font-family: "f3"; 
 }
 
 .cua1{
@@ -205,7 +227,8 @@
     top: 3400px;
     color: white;
     text-align: center;
-    font-size: 30px;
+    font-size: 25px;
+    font-family: "f2";
     position: absolute;
 }
 .cua2{
@@ -217,7 +240,8 @@
     top: 3400px;
     color: white;
     text-align: center;
-    font-size: 30px;
+    font-size: 25px;
+    font-family: "f2";
     position: absolute;
 }
 
@@ -230,7 +254,8 @@
     top: 3400px;
     color: white;
     text-align: center;
-    font-size: 30px;
+    font-size: 25px;
+    font-family: "f2"; 
     position: absolute;
 }
 
@@ -244,6 +269,7 @@
     position: absolute;
     left: 280px;
     top: 3900px;
+    font-family: "f1"; 
 }
 .Learn4{
     background-color: #ce9e5a;
@@ -255,6 +281,7 @@
     position: absolute;
     left: 880px;
     top: 3900px;
+    font-family: "f1"; 
 }
 
 .Learn5{
@@ -267,6 +294,7 @@
     position: absolute;
     left: 1480px;
     top: 3900px;
+    font-family: "f1"; 
 }
 
 #cafe4{
@@ -307,6 +335,7 @@
     font-size: 50px;
     color: white;
     position: absolute;
+    font-family: "f1"; 
 }
 #us{
     top: 4300px;
@@ -314,6 +343,7 @@
     font-size: 50px;
     color:#ce9e5a;
     position: absolute;
+    font-family: "f1"; 
 }
 
 #txt1{
@@ -330,13 +360,15 @@
     font-size: 50px;
     color: white;
     position: absolute;
+    font-family: "f1"; 
 }
 #us2{
-    top: 4300px;
-    left:1030px;
+    top: 4301px;
+    left:1045px;
     font-size: 50px;
     color:#ce9e5a;
     position: absolute;
+    font-family: "f1"; 
 }
 #txt2{
     top: 4380px;
@@ -347,18 +379,20 @@
     position: absolute;
 }
 #ope{
-    top: 4300px;
+    top: 4306px;
     left: 1280px;
     font-size: 50px;
     color: white;
     position: absolute;
+    font-family: "f1"; 
 }
 #hou{
-    top: 4300px;
+    top: 4307px;
     left:1470px;
     font-size: 50px;
     color:#ce9e5a;
     position: absolute;
+    font-family: "f1"; 
 }
 
 #txt3{
@@ -369,3 +403,33 @@
     color:white;
     position: absolute;
 }
+
+.raya3{
+    position: absolute;
+    color: white;
+    top: 4650px ;
+    left: 620px;
+    height: 0px;
+    width: 680px;
+    border: 1px solid #ce9e5a;
+}
+
+#txt4{
+    top: 4389px;
+    left:1240px;
+    font-size: 24px;
+    text-align: center;
+    color:white;
+    position: absolute;
+}
+
+#fin{
+    top: 4665px;
+    left:790px;
+    font-size: 18px;
+    text-align: center;
+    color:white;
+    position: absolute;
+    font-family: "f2";
+}
+
