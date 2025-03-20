@@ -1,0 +1,371 @@
+.background{
+    background-color: black;
+    width: 1920px;
+    height: 5000px;
+    position: relative;
+}
+
+.menu{
+    color:white;
+    font-size: 25px;
+}
+
+#home{
+    left: 1000px;
+    top: 15px;
+    position: absolute;
+}
+
+#home:hover{    
+    background-color: transparent;
+    border-bottom: 2px solid #ce9e5a;
+    cursor: pointer;
+}
+
+#about{
+    left: 1150px;
+    top: 15px;
+    position: absolute;
+}
+
+#about:hover{    
+    background-color: transparent;
+    border-bottom: 2px solid #ce9e5a;
+    cursor: pointer;
+}
+
+#menu{
+    left: 1300px;
+    top: 15px;
+    position: absolute;
+}
+
+#menu:hover{    
+    background-color: transparent;
+    border-bottom: 2px solid #ce9e5a;
+    cursor: pointer;
+}
+
+#contact{
+    left: 1450px;
+    top: 15px;
+    position: absolute;
+}
+
+#contact:hover{    
+    background-color: transparent;
+    border-bottom: 2px solid #ce9e5a;
+    cursor: pointer;
+}
+
+#logo{
+    left: 500px;
+    top: 6px;
+    color: white;
+    position: absolute;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#cafe1{
+    top: 400px;
+    left: 790px;
+    width: 450px;
+    height: 450px;
+    position: absolute;
+}
+
+#start{
+    top: 150px;
+    left: 687px;
+    font-size: 80px;
+    color: white;
+    position: absolute;
+}
+
+#with{
+    top: 830px;
+    left: 670px;
+    font-size: 80px;
+    color: white;
+    position: absolute;
+}
+
+.shopnow{
+    background-color: #ce9e5a;
+    border-style: 2px solid;
+    color: black;
+    padding: 10px 40px;
+    cursor: pointer;
+    font-size: 16px;
+    top: 1040px;
+    left: 950px;
+    position: absolute;
+}
+
+#OUR{
+    top: 1450px;
+    left: 1140px;
+    font-size: 80px;
+    color: white;
+    position: absolute;
+}
+
+.raya{
+    position: absolute;
+    color: white;
+    top: 1575px ;
+    left: 950px;
+    height: 0px;
+    width: 155px;
+    border: 2px solid white;
+}
+
+#lorem{
+    top: 1610px;
+    left: 1120px;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+}
+
+.Learn1{
+    background-color: #ce9e5a;
+    border-style: 2px solid;
+    color: black;
+    padding: 10px 40px;
+    cursor: pointer;
+    font-size: 16px;
+    position: absolute;
+    top: 1745px;
+    left: 1120px;
+}
+
+#cafe2{
+    top: 1300px;
+    left: 140px;
+    width: 870px;
+    height: 680px;
+    position: absolute;
+}
+
+#place{
+    top: 2200px;
+    left: 110px;
+    text-align: left;
+    font-size: 80px;
+    color: white;
+    width: 650px;
+    height: 450px;
+    position: absolute;
+}
+
+#cafe3{
+    top: 2230px;
+    left: 1150px;
+    width: 520px;
+    height: 490px;
+    position: absolute;
+}
+
+#lorem2{
+    top: 2570px;
+    left: 120px;
+    font-size: 25px;
+    color: white;
+    position: absolute;
+}
+
+.Learn2{
+    background-color: #ce9e5a;
+    border-style: 2px solid;
+    color: black;
+    padding: 10px 40px;
+    cursor: pointer;
+    font-size: 16px;
+    position: absolute;
+    top: 2660px;
+    left: 120px;
+}
+
+#products{
+    top: 2970px;
+    left: 100px;
+    font-size: 80px;
+    color: white;
+    position: absolute;
+}
+
+.cua1{
+    width: 420px;
+    height: 600px;
+    border: 1px solid #ce9e5a;
+    border-radius: 7px;
+    left: 150px;
+    top: 3400px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    position: absolute;
+}
+.cua2{
+    width: 420px;
+    height: 600px;
+    border: 1px solid #ce9e5a;
+    border-radius: 7px;
+    left: 750px;
+    top: 3400px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    position: absolute;
+}
+
+.cua3{
+    width: 420px;
+    height: 600px;
+    border: 1px solid #ce9e5a;
+    border-radius: 7px;
+    left: 1350px;
+    top: 3400px;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    position: absolute;
+}
+
+.Learn3{
+    background-color: #ce9e5a;
+    border-style: 2px solid;
+    color: black;
+    padding: 10px 40px;
+    cursor: pointer;
+    font-size: 16px;
+    position: absolute;
+    left: 280px;
+    top: 3900px;
+}
+.Learn4{
+    background-color: #ce9e5a;
+    border-style: 2px solid;
+    color: black;
+    padding: 10px 40px;
+    cursor: pointer;
+    font-size: 16px;
+    position: absolute;
+    left: 880px;
+    top: 3900px;
+}
+
+.Learn5{
+    background-color: #ce9e5a;
+    border-style: 2px solid;
+    color: black;
+    padding: 10px 40px;
+    cursor: pointer;
+    font-size: 16px;
+    position: absolute;
+    left: 1480px;
+    top: 3900px;
+}
+
+#cafe4{
+    top: 3330px;
+    left: 289px;
+    width: 140px;
+    height: 130px;
+    position: absolute;
+}
+#cafe5{
+    top: 3330px;
+    left: 890px;
+    width: 140px;
+    height: 130px;
+    position: absolute;
+}
+#cafe6{
+    top: 3330px;
+    left: 1496px;
+    width: 140px;
+    height: 130px;
+    position: absolute;
+}
+
+.raya2{
+    position: absolute;
+    color: white;
+    top: 4120px ;
+    left: 620px;
+    height: 0px;
+    width: 680px;
+    border: 1px solid #ce9e5a;
+}
+
+#ab{
+    top: 4300px;
+    left: 400px;
+    font-size: 50px;
+    color: white;
+    position: absolute;
+}
+#us{
+    top: 4300px;
+    left:550px;
+    font-size: 50px;
+    color:#ce9e5a;
+    position: absolute;
+}
+
+#txt1{
+    top: 4380px;
+    left:290px;
+    font-size: 24px;
+    text-align: center;
+    color:white;
+    position: absolute;
+}
+#con{
+    top: 4300px;
+    left: 855px;
+    font-size: 50px;
+    color: white;
+    position: absolute;
+}
+#us2{
+    top: 4300px;
+    left:1030px;
+    font-size: 50px;
+    color:#ce9e5a;
+    position: absolute;
+}
+#txt2{
+    top: 4380px;
+    left:750px;
+    font-size: 24px;
+    text-align: center;
+    color:white;
+    position: absolute;
+}
+#ope{
+    top: 4300px;
+    left: 1280px;
+    font-size: 50px;
+    color: white;
+    position: absolute;
+}
+#hou{
+    top: 4300px;
+    left:1470px;
+    font-size: 50px;
+    color:#ce9e5a;
+    position: absolute;
+}
+
+#txt3{
+    top: 4389px;
+    left:1240px;
+    font-size: 24px;
+    text-align: center;
+    color:white;
+    position: absolute;
+}
